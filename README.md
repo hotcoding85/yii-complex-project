@@ -1,4 +1,4 @@
-Yii PHP Framework Version 2
+With Yii PHP Framework 
 ===========================
 
 This is the core framework code of [Yii 2](https://github.com/yiisoft/yii2#readme).
